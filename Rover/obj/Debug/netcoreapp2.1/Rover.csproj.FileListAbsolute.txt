@@ -1,0 +1,11 @@
+C:\Users\Ilaria\Desktop\ProgettoCodicePlastico\Rover\Rover\obj\Debug\netcoreapp2.1\Rover.csprojAssemblyReference.cache
+C:\Users\Ilaria\Desktop\ProgettoCodicePlastico\Rover\Rover\obj\Debug\netcoreapp2.1\Rover.csproj.CoreCompileInputs.cache
+C:\Users\Ilaria\Desktop\ProgettoCodicePlastico\Rover\Rover\obj\Debug\netcoreapp2.1\Rover.AssemblyInfoInputs.cache
+C:\Users\Ilaria\Desktop\ProgettoCodicePlastico\Rover\Rover\obj\Debug\netcoreapp2.1\Rover.AssemblyInfo.cs
+C:\Users\Ilaria\Desktop\ProgettoCodicePlastico\Rover\Rover\bin\Debug\netcoreapp2.1\Rover.deps.json
+C:\Users\Ilaria\Desktop\ProgettoCodicePlastico\Rover\Rover\bin\Debug\netcoreapp2.1\Rover.runtimeconfig.json
+C:\Users\Ilaria\Desktop\ProgettoCodicePlastico\Rover\Rover\bin\Debug\netcoreapp2.1\Rover.runtimeconfig.dev.json
+C:\Users\Ilaria\Desktop\ProgettoCodicePlastico\Rover\Rover\bin\Debug\netcoreapp2.1\Rover.dll
+C:\Users\Ilaria\Desktop\ProgettoCodicePlastico\Rover\Rover\bin\Debug\netcoreapp2.1\Rover.pdb
+C:\Users\Ilaria\Desktop\ProgettoCodicePlastico\Rover\Rover\obj\Debug\netcoreapp2.1\Rover.dll
+C:\Users\Ilaria\Desktop\ProgettoCodicePlastico\Rover\Rover\obj\Debug\netcoreapp2.1\Rover.pdb

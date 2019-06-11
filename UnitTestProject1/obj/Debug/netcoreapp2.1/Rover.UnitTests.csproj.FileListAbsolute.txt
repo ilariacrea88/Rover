@@ -1,0 +1,17 @@
+C:\Users\Ilaria\Desktop\ProgettoCodicePlastico\Rover\UnitTestProject1\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Ilaria\Desktop\ProgettoCodicePlastico\Rover\UnitTestProject1\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Ilaria\Desktop\ProgettoCodicePlastico\Rover\UnitTestProject1\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Ilaria\Desktop\ProgettoCodicePlastico\Rover\UnitTestProject1\bin\Debug\netcoreapp2.1\Rover.UnitTests.deps.json
+C:\Users\Ilaria\Desktop\ProgettoCodicePlastico\Rover\UnitTestProject1\bin\Debug\netcoreapp2.1\Rover.UnitTests.runtimeconfig.json
+C:\Users\Ilaria\Desktop\ProgettoCodicePlastico\Rover\UnitTestProject1\bin\Debug\netcoreapp2.1\Rover.UnitTests.runtimeconfig.dev.json
+C:\Users\Ilaria\Desktop\ProgettoCodicePlastico\Rover\UnitTestProject1\bin\Debug\netcoreapp2.1\Rover.UnitTests.dll
+C:\Users\Ilaria\Desktop\ProgettoCodicePlastico\Rover\UnitTestProject1\bin\Debug\netcoreapp2.1\Rover.UnitTests.pdb
+C:\Users\Ilaria\Desktop\ProgettoCodicePlastico\Rover\UnitTestProject1\bin\Debug\netcoreapp2.1\Rover.dll
+C:\Users\Ilaria\Desktop\ProgettoCodicePlastico\Rover\UnitTestProject1\bin\Debug\netcoreapp2.1\Rover.pdb
+C:\Users\Ilaria\Desktop\ProgettoCodicePlastico\Rover\UnitTestProject1\obj\Debug\netcoreapp2.1\Rover.UnitTests.csprojAssemblyReference.cache
+C:\Users\Ilaria\Desktop\ProgettoCodicePlastico\Rover\UnitTestProject1\obj\Debug\netcoreapp2.1\Rover.UnitTests.csproj.CoreCompileInputs.cache
+C:\Users\Ilaria\Desktop\ProgettoCodicePlastico\Rover\UnitTestProject1\obj\Debug\netcoreapp2.1\Rover.UnitTests.AssemblyInfoInputs.cache
+C:\Users\Ilaria\Desktop\ProgettoCodicePlastico\Rover\UnitTestProject1\obj\Debug\netcoreapp2.1\Rover.UnitTests.AssemblyInfo.cs
+C:\Users\Ilaria\Desktop\ProgettoCodicePlastico\Rover\UnitTestProject1\obj\Debug\netcoreapp2.1\Rover.UnitTests.csproj.CopyComplete
+C:\Users\Ilaria\Desktop\ProgettoCodicePlastico\Rover\UnitTestProject1\obj\Debug\netcoreapp2.1\Rover.UnitTests.dll
+C:\Users\Ilaria\Desktop\ProgettoCodicePlastico\Rover\UnitTestProject1\obj\Debug\netcoreapp2.1\Rover.UnitTests.pdb
